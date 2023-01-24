@@ -1,11 +1,18 @@
 <!-- START: Header -->
+<br />
 <div align="middle">
   
   <img src="assets/img-figma.png" alt="Logo" width="80" height="80">
   <h3 align="center">UI Projects</h3>
 
-  <p>
-    A Few of UI Design Projects
+  <p align="center">
+    A few of UI design projects
+    <br />
+    <a
+      href="https://github.com/hattaltd/figma-ui-design/blob/master/README.md"
+    >
+      <strong>Let's explore the docs<br />🛵💨</strong>
+    </a>
   </p>
 
 </div>
