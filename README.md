@@ -37,9 +37,18 @@ View each project by switching the branch.
 ## Acknowledgments
 Here is a list of resources that we found helpful in contributing towards this project.
 
+> Design Apps
+- Main apps. [(Figma)](https://www.figma.com/)
+
+> Design Resources
+
 - Fonts. [(Google Fonts)](https://fonts.google.com/)
 - Icons. [(Icon8 Icons)](https://icons8.com/icons)
 - Illustrations. [(Icon8 Illustration)](https://icons8.com/illustrations)
+- Color palettes. [(Color Hunt)](https://colorhunt.co/)
+
+> Others
+
 - Readme. [(Readme Template)](https://github.com/othneildrew/Best-README-Template)
 <!-- END: Acknowledgments -->
 
