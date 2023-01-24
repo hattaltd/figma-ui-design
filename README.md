@@ -2,8 +2,11 @@
 <div align="middle">
   
   <img src="assets/img-figma.png" alt="Logo" width="80" height="80">
-
   <h3 align="center">UI Projects</h3>
+
+  <p>
+    A Few of UI Design Projects
+  </p>
 
 </div>
 <br />
