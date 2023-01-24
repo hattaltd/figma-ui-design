@@ -29,7 +29,7 @@
 ## About The Project
 A collection of our UI design projects using Figma.
 
-View each project by switching the branch.
+View each project by clicking the **branch button** and switch the branches.
 <br /><br>
 <!-- END: Project Title -->
 
