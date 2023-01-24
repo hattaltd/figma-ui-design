@@ -11,9 +11,10 @@
     <a
       href="https://github.com/hattaltd/figma-ui-design/blob/master/README.md"
     >
-      <strong>Let's explore the docs<br />🛵💨</strong>
+      <strong>Let's explore the docs !</strong>
     </a>
   </p>
+  <p>🛵💨</p>
 
 </div>
 <br />
