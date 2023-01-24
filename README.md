@@ -1,6 +1,23 @@
+<!-- START: Header -->
+<br />
+<div align="middle">
+  <img src="assets/img-figma.png" alt="Logo" width="80" height="80">
+  <h3 align="center">UI Projects</h3>
+  <p align="center">
+    A few of UI design projects
+    <br />
+    <a href="https://github.com/hattaltd/figma-ui-design/blob/master/README.md">
+      <strong>Explore docs !</strong>
+    </a>
+    <span>🛵💨</span>
+  </p>
+</div>
+<br />
+<!-- END: Header -->
+
 <!-- START Project Title -->
-## 📢 Project Title
-A web ui design regarding a *cafe coffee*.
+## Coffee Restaurant
+A web ui design regarding a coffee restaurant.
 <br /><br>
 <!-- END Project Title -->
 
