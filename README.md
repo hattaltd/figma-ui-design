@@ -16,7 +16,6 @@
     <li><a href="#about-the-project">About The Project</a></li>
   </ol>
 </details>
-<br />
 <!-- END: Table Of Contents -->
 
 <!-- START: Project Title -->
