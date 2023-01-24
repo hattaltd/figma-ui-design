@@ -10,11 +10,10 @@
     <br />
     <a
       href="https://github.com/hattaltd/figma-ui-design/blob/master/README.md"
-    >
-      <strong>Let's explore the docs !</strong>
+    ><strong>Explore docs !</strong>
     </a>
+    <span>🛵💨</span>
   </p>
-  <p>🛵💨</p>
 
 </div>
 <br />
@@ -33,7 +32,7 @@
 ## About The Project
 A collection of our UI design projects using Figma.
 
-Open each project by switching the branch.
+View each project by switching the branch.
 <br /><br>
 <!-- END: Project Title -->
 
