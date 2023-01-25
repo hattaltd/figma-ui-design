@@ -29,7 +29,7 @@
 ## About The Project
 A collection of our UI design projects using Figma.
 
-View each project by clicking the **branch button** and switch the branches.
+View each project by clicking the **branch** button and switch the branches.
 <br /><br>
 <!-- END: Project Title -->
 
@@ -37,18 +37,20 @@ View each project by clicking the **branch button** and switch the branches.
 ## Acknowledgments
 Here is a list of resources that we found helpful in contributing towards this project.
 
-> Design Apps
-- Main apps. [(Figma)](https://www.figma.com/)
+> Design App
+- Main app. [(Figma)](https://www.figma.com/)
 
 > Design Resources
-
 - Fonts. [(Google Fonts)](https://fonts.google.com/)
 - Icons. [(Icon8 Icons)](https://icons8.com/icons)
 - Illustrations. [(Icon8 Illustration)](https://icons8.com/illustrations)
 - Color palettes. [(Color Hunt)](https://colorhunt.co/)
 
-> Others
+> Design Inspiration
+- Web design - Alternate one. [(Dribbble)](https://dribbble.com/shots/popular/web-design)
+- Web design - Alternate two. [(Canva)](https://www.canva.com/website-builder/)
 
+> Others
 - Readme. [(Readme Template)](https://github.com/othneildrew/Best-README-Template)
 <!-- END: Acknowledgments -->
 
