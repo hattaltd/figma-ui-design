@@ -7,9 +7,9 @@
     A few of UI design projects
     <br />
     <a href="https://github.com/hattaltd/figma-ui-design/blob/master/README.md">
-      <strong>Explore docs !</strong>
+      <strong>Explore the docs !</strong>
     </a>
-    <span>🛵💨</span>
+    <p>🛵💨</p>
   </p>
 </div>
 <br />
