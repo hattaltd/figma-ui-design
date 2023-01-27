@@ -17,7 +17,7 @@
 
 <!-- START Project Title -->
 ## Coffee Restaurant
-A web ui design regarding a coffee restaurant.
+This is a web UI design project regarding a coffee restaurant.
 <br /><br>
 <!-- END Project Title -->
 
